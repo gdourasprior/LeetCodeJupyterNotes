@@ -172,3 +172,6 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# My Ignores
+leetcode75/PLAN.txt
